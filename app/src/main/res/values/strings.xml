@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MQTT</string>
+    <string name="broker_hivemq_com">broker.hivemq.com</string>
+    <string name="connect">Connect</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="send">Send</string>
+    <string name="received_message">Received Message</string>
+    <string name="nan">NaN</string>
+    <string name="mqtt_topic">mqtt/topic</string>
+    <string name="hi">Hi</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="mqtt_sensordata">mqtt/sensorData</string>
+    <string name="connect_to_mqtt">Connect to MQTT</string>
+    <string name="send_message_1">Send Message</string>
+    <string name="incoming_messages">Incoming Messages</string>
+    <string name="address">Address :</string>
+    <string name="topic">Topic :</string>
+    <string name="message">Message :</string>
+</resources>
